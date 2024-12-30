@@ -1,2 +1,2 @@
 # MachineLearning
-my Machine Learning scripts
+My Machine Learning scripts.
